@@ -1,5 +1,3 @@
-// ignore_for_file: deprecated_member_use
-
 import 'package:flutter/material.dart';
 import 'package:tetris/values/app_colors.dart';
 import 'sub_block.dart';
